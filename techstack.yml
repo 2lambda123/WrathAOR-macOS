@@ -2,7 +2,7 @@ repo_name: 2lambda123/WrathAOR-macOS
 report_id: 734af032ab935926b98c16a9f8ebdf4a
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:53:45+00:00'
+timestamp: '2024-02-29T19:16:41+00:00'
 requested_by: tomkidd
 provider: github
 branch: master
@@ -85,7 +85,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/WrathAOR-macOS
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -110,7 +110,7 @@ tools:
   last_updated_by: Tom Kidd
   last_updated_on: 2020-03-04 04:18:41.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
